@@ -5,7 +5,7 @@ import time
 warnings.filterwarnings("ignore")
 
 #size, window and cbow or skipgram defination
-dimension=[600,1000]
+dimension=[300,600,1000]
 window=[4,10]
 objective_function=[0,1]
 
