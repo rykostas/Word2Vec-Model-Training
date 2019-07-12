@@ -11,7 +11,7 @@ objective_function=[0,1]
 
 #creating a table for outputs on screen
 of_dict = {1: "skipgram",0: "cbow"}
-input_file="all_text.txt"
+input_file="compound_text.txt"
 print ('%-25s %-25s' % ("file name","time in seconds"))
 
 
